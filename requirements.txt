@@ -313,7 +313,7 @@ rjsmin==1.1.0
     # via django-compressor
 ruamel-yaml==0.16.12
     # via drf-yasg
-sentry-sdk==0.19.5
+sentry-sdk==2.8.0
     # via
     #   -r requirements.in
     #   geotrek
@@ -356,11 +356,11 @@ uritemplate==3.0.1
     #   coreapi
     #   drf-spectacular
     #   drf-yasg
-urllib3==1.26.3
+urllib3==1.26.20
     # via
     #   requests
     #   sentry-sdk
-values==2020.12.3
+values==66.0.3
     # via env-file
 vine==5.0.0
     # via
